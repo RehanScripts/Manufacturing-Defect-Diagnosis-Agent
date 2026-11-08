@@ -1,0 +1,6 @@
+{
+  "name": "Manufacturing Quality AI",
+  "description": "Enterprise-grade manufacturing quality investigation agent combining visual defect inspection, production telemetry, historical evidence, diagnostic checks, and human-in-the-loop corrective workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
